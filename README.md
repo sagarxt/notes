@@ -3,4 +3,6 @@
 </div>
 <hr>
 
-## [Java Email Service using Gmail](Topics/Java%20Email%20Service%20using%20Gmail.md)
+## [Java Email Service using Gmail](Topics/Java_Email_Service_using_Gmail.md)
+## [Git using Command Line](Topics/Git_Note.md)
+## [Hibernate](Topics/Hibernate_Note.md)
